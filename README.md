@@ -1,0 +1,2 @@
+# stock-forecast
+Thesis project
